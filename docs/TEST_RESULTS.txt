@@ -1,0 +1,25 @@
+test_audit_tamper (test_agent.AgentTests.test_audit_tamper) ... ok
+test_benign_no_replan (test_agent.AgentTests.test_benign_no_replan) ... ok
+test_claimed_hash_not_trusted (test_agent.AgentTests.test_claimed_hash_not_trusted) ... ok
+test_csv (test_agent.AgentTests.test_csv) ... ok
+test_demo_replans_and_cites (test_agent.AgentTests.test_demo_replans_and_cites) ... ok
+test_duplicate_rejected (test_agent.AgentTests.test_duplicate_rejected) ... ok
+test_empty_invalid (test_agent.AgentTests.test_empty_invalid) ... ok
+test_entity_routes (test_agent.AgentTests.test_entity_routes) ... ok
+test_invalid_goal (test_agent.AgentTests.test_invalid_goal) ... ok
+test_invalid_timestamp (test_agent.AgentTests.test_invalid_timestamp) ... ok
+test_oversized (test_agent.AgentTests.test_oversized) ... ok
+test_prompt_injection_is_data (test_agent.AgentTests.test_prompt_injection_is_data) ... ok
+test_record_tamper (test_agent.AgentTests.test_record_tamper) ... ok
+test_timeline_routes (test_agent.AgentTests.test_timeline_routes) ... ok
+test_authority_required (test_agent.HTTPTests.test_authority_required) ... ok
+test_bad_request (test_agent.HTTPTests.test_bad_request) ... ok
+test_cross_origin (test_agent.HTTPTests.test_cross_origin) ... ok
+test_full_workflow (test_agent.HTTPTests.test_full_workflow) ... ok
+test_session_required (test_agent.HTTPTests.test_session_required) ... ok
+test_static (test_agent.HTTPTests.test_static) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.686s
+
+OK

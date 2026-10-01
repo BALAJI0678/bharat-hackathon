@@ -1,0 +1,1 @@
+PASS: synthetic intake, 7 records, 3 review leads, correlation replan, source display, locked export before approval, explicit approval, report+audit downloads, timeline-only routing, partial Hindi UI, persisted-case reload, 390px mobile layout. No JavaScript page errors.

@@ -1,0 +1,9 @@
+[
+ {"id":"SMS-001","type":"SMS","timestamp":"2026-01-15T10:00:00+05:30","content":{"from":"DEMO-KYC","body":"खाता बंद हो जाएगा। तुरंत केवाईसी अपडेट करें: https://demo-bank.invalid/verify — OTP भेजें।"}},
+ {"id":"SMS-002","type":"SMS","timestamp":"2026-01-15T10:04:00+05:30","content":{"from":"DEMO-KYC","body":"Urgent: share OTP to verify account. Reply to helpdesk@demo-bank.invalid"}},
+ {"id":"PAY-001","type":"UPI","timestamp":"2026-01-15T10:12:00+05:30","content":{"amount_inr":4500,"recipient":"demo-merchant@upi","reference":"SYNTHETIC-001","status":"success"}},
+ {"id":"CALL-001","type":"CALLS","timestamp":"2026-01-15T09:58:00+05:30","content":{"from":"DEMO-CALLER","duration_seconds":125}},
+ {"id":"SMS-003","type":"SMS","timestamp":"2026-01-15T12:20:00+05:30","content":{"from":"DEMO-FAMILY","body":"Please bring groceries home today."}},
+ {"id":"PAY-002","type":"UPI","timestamp":"2026-01-15T13:30:00+05:30","content":{"amount_inr":150,"recipient":"demo-grocer@upi","reference":"SYNTHETIC-002"}},
+ {"id":"NOTE-001","type":"FILES","content":{"note":"Synthetic dataset only. These records do not represent real people or transactions."}}
+]
