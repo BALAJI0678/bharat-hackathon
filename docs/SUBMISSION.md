@@ -20,8 +20,8 @@ Act: persist review packet, log human approval, export reviewed report.
 ## Technology stack
 Python 3.10+ standard library, local HTTP server, SQLite, HTML/CSS/JavaScript, SHA-256. PPTX/PDF/video tools were used to prepare submission materials only and are not runtime dependencies. No LLM is used in the working agent.
 
-**GitHub repository:** [REPLACE — publish your repository; none was created here]
-**Working demo:** Run locally using README instructions. [REPLACE hosted demo URL if organizer requires one; do not publicly expose this local server]
+**GitHub repository:** https://github.com/BALAJI0678/bharat-hackathon
+**Working demo:** Run locally (`python server.py` -> `http://127.0.0.1:8787`) or via GitHub Actions (Actions -> Run Bharat Evidence Agent)
 **Demo video:** docs/demo_video.mp4 (synthetic data, narrated walkthrough)
 **Pitch deck:** docs/pitch_deck.pptx / docs/pitch_deck.pdf (5 slides)
 
