@@ -37,3 +37,10 @@ python server.py
 Open `http://127.0.0.1:8787`, load the synthetic demo, run the workflow, inspect the evidence, and explicitly approve as a human reviewer before exporting the reviewed report.
 
 GitHub Actions runs a finite demo job; it does not provide a persistent public web UI. No repository has been published by this package. Never commit real evidence, case databases or credentials.
+
+## Team Members
+- **Tumma Sevireddy** (ID: 99240040699 | Email: 99240040699@klu.ac.in | Phone: 7671975351)
+- **Pallapotu Balaji** (ID: 99240041234 | Email: 99240041234@klu.ac.in | Phone: 9392774307)
+- **Daggupati Vinusha** (ID: 99240041217 | Email: 99240041217@klu.ac.in | Phone: 8919236090)
+- **Manigala Mahitha** (ID: 99240041229 | Email: 99240041229@klu.ac.in | Phone: 8179761772)
+

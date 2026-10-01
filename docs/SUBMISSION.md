@@ -1,7 +1,11 @@
 # BHARAT AGENTIC 2026 — submission template
 
 **Project name:** Bharat Evidence Agent
-**Team members:** [REPLACE with names, roles and required organizer details]
+**Team members:**
+- **Tumma Sevireddy** | ID: 99240040699 | Email: 99240040699@klu.ac.in | Phone: 7671975351
+- **Pallapotu Balaji** | ID: 99240041234 | Email: 99240041234@klu.ac.in | Phone: 9392774307
+- **Daggupati Vinusha** | ID: 99240041217 | Email: 99240041217@klu.ac.in | Phone: 8919236090
+- **Manigala Mahitha** | ID: 99240041229 | Email: 99240041229@klu.ac.in | Phone: 8179761772
 **Selected domain:** Citizen & GovTech
 
 ## Problem statement
